@@ -1,0 +1,6 @@
+bin/
+lib/
+*.lps
+*.res
+.*~
+.o
